@@ -4,3 +4,4 @@
 - [iwd 在arch上使用遇到的问题](./blog/iwd_on_archlinux.md)
 - [使用umu在linux上运行《星塔旅人》](./blog/run_stellasora_on_linux.md)
 - [zsh 在 mac 上的配置](./blog/zsh_on_mac.md)
+- [vps ip 被google标记为cn遇到的问题](./blog/vps_google_cn_ip.md)
