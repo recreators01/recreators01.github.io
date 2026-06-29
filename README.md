@@ -5,3 +5,4 @@
 - [使用umu在linux上运行《星塔旅人》](./blog/run_stellasora_on_linux.md)
 - [zsh 在 mac 上的配置](./blog/zsh_on_mac.md)
 - [vps ip 被google标记为cn遇到的问题](./blog/vps_google_cn_ip.md)
+- [直接使用 steam_runtime 与 proton-ge 运行游戏](./blog/use_proton_without_steam_and_umu.md)
