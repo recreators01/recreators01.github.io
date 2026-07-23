@@ -10,6 +10,7 @@ PROTON_USE_WAYLAND=1 SteamGameId=0 STEAM_COMPAT_CLIENT_INSTALL_PATH= STEAM_COMPA
 
 **NOTE**: proton 使用绝对路径运行，否则可能出现意外行为（wayland 无法使用）
 **NOTE**: 设置 SteamGameId=0，否则可能出现意外行为（比如视频无法播放）
+**NOTE**: 似乎需要程序在前缀目录里
 
 以下是使用 `umu` 运行时捕获的命令：
 ```bash
